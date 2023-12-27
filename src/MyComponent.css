@@ -1,0 +1,15 @@
+/* MyComponent.css */
+div {
+    border: 2px solid #ddd;
+    padding: 16px;
+    margin: 16px 0;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #777;
+  }
+  
